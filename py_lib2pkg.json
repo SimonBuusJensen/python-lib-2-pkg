@@ -35,7 +35,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 13440186,
                 "package_name": "Cython"
             }
         ]
@@ -53,7 +53,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 1614605,
                 "package_name": "DateTime"
             }
         ]
@@ -71,7 +71,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 1903869,
                 "package_name": "Geohash"
             }
         ]
@@ -89,7 +89,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 2723606,
                 "package_name": "python-Levenshtein"
             }
         ]
@@ -107,7 +107,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 18722766,
                 "package_name": "pyOpenSSL"
             }
         ]
@@ -116,7 +116,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 28725959,
                 "package_name": "Pillow"
             }
         ]
@@ -125,7 +125,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 1035860,
                 "package_name": "PartyBotPackage"
             }
         ]
@@ -134,7 +134,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 1804814,
                 "package_name": "PyPDF2"
             }
         ]
@@ -152,7 +152,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 915866,
                 "package_name": "SEKKAYBOT"
             }
         ]
@@ -161,7 +161,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 1361813,
                 "package_name": "PyHive"
             }
         ]
@@ -483,7 +483,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 999806,
                 "package_name": "APScheduler"
             }
         ]
@@ -645,7 +645,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 1725299,
                 "package_name": "Authlib"
             }
         ]
@@ -663,7 +663,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 1294013,
                 "package_name": "Automat"
             }
         ]
@@ -1238,7 +1238,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 9935002,
                 "package_name": "Babel"
             }
         ]
@@ -1285,7 +1285,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 1831686,
                 "package_name": "PyMeeus"
             }
         ]
@@ -1501,7 +1501,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 1129299,
                 "package_name": "Brotli"
             }
         ]
@@ -1555,7 +1555,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 4516727,
                 "package_name": "CacheControl"
             }
         ]
@@ -1600,7 +1600,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 1410085,
                 "package_name": "pyCalverter"
             }
         ]
@@ -1659,7 +1659,7 @@
             },
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 1985258,
                 "package_name": "Cerberus"
             }
         ]
@@ -1947,7 +1947,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 1159955,
                 "package_name": "ConfigArgParse"
             }
         ]
@@ -2145,7 +2145,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 1289270,
                 "package_name": "CurrencyConverter"
             }
         ]
@@ -2168,7 +2168,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 1977971,
                 "package_name": "cx-Oracle"
             }
         ]
@@ -2195,7 +2195,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 13440186,
                 "package_name": "Cython"
             }
         ]
@@ -2357,7 +2357,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 5593163,
                 "package_name": "Deprecated"
             }
         ]
@@ -2429,7 +2429,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 7005573,
                 "package_name": "Django"
             }
         ]
@@ -2528,7 +2528,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 3213395,
                 "package_name": "Keras"
             },
             {
@@ -2605,7 +2605,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 1094343,
                 "package_name": "EasyProcess"
             }
         ]
@@ -2763,7 +2763,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 1202069,
                 "package_name": "ExifRead"
             }
         ]
@@ -2817,7 +2817,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 3814566,
                 "package_name": "Faker"
             }
         ]
@@ -2898,7 +2898,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 1446047,
                 "package_name": "Fiona"
             }
         ]
@@ -3060,7 +3060,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 23352633,
                 "package_name": "Flask"
             }
         ]
@@ -3069,7 +3069,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 1092832,
                 "package_name": "Flask-Admin"
             }
         ]
@@ -3078,7 +3078,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 1558276,
                 "package_name": "Flask-AppBuilder"
             }
         ]
@@ -3087,7 +3087,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 1111567,
                 "package_name": "Flask-Babel"
             }
         ]
@@ -3096,7 +3096,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 1319380,
                 "package_name": "Flask-Bootstrap4"
             }
         ]
@@ -3105,7 +3105,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 1321634,
                 "package_name": "Flask-Breadcrumbs"
             }
         ]
@@ -3114,7 +3114,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 1546080,
                 "package_name": "Flask-Caching"
             }
         ]
@@ -3123,7 +3123,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 2678998,
                 "package_name": "Flask-Cors"
             }
         ]
@@ -3132,7 +3132,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 2475349,
                 "package_name": "Flask-JWT-Extended"
             }
         ]
@@ -3141,7 +3141,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 2740102,
                 "package_name": "Flask-Login"
             }
         ]
@@ -3159,7 +3159,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 916263,
                 "package_name": "Flask-Migrate"
             }
         ]
@@ -3168,7 +3168,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 774582,
                 "package_name": "Flask-OpenID"
             }
         ]
@@ -3177,7 +3177,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 1187354,
                 "package_name": "Flask-RESTful"
             }
         ]
@@ -3195,7 +3195,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 1612565,
                 "package_name": "Flask-SocketIO"
             }
         ]
@@ -3204,7 +3204,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 2861065,
                 "package_name": "Flask-SQLAlchemy"
             }
         ]
@@ -3222,7 +3222,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 2928276,
                 "package_name": "Flask-WTF"
             }
         ]
@@ -3456,7 +3456,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 12267740,
                 "package_name": "GitPython"
             }
         ]
@@ -3474,7 +3474,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 3991976,
                 "package_name": "PyGithub"
             }
         ]
@@ -3854,7 +3854,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 880025,
                 "package_name": "PyHamcrest"
             }
         ]
@@ -3872,7 +3872,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 1109551,
                 "package_name": "HeapDict"
             }
         ]
@@ -4372,7 +4372,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 1885202,
                 "package_name": "JayDeBeApi"
             }
         ]
@@ -4417,7 +4417,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 50682494,
                 "package_name": "Jinja2"
             }
         ]
@@ -4471,7 +4471,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 2268335,
                 "package_name": "JPype1"
             }
         ]
@@ -4489,7 +4489,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 1443796,
                 "package_name": "JSON-log-formatter"
             }
         ]
@@ -4647,7 +4647,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 40574387,
                 "package_name": "PyJWT"
             }
         ]
@@ -4679,7 +4679,7 @@
             },
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 3213395,
                 "package_name": "Keras"
             }
         ]
@@ -4688,7 +4688,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 4052155,
                 "package_name": "Keras-Applications"
             }
         ]
@@ -4697,7 +4697,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 5996563,
                 "package_name": "Keras-Preprocessing"
             }
         ]
@@ -4913,7 +4913,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 894378,
                 "package_name": "LunarCalendar"
             }
         ]
@@ -4958,7 +4958,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 8892182,
                 "package_name": "Mako"
             }
         ]
@@ -4967,7 +4967,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 9451294,
                 "package_name": "Markdown"
             }
         ]
@@ -4976,7 +4976,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 54169084,
                 "package_name": "MarkupSafe"
             }
         ]
@@ -5368,7 +5368,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 13526753,
                 "package_name": "PyNaCl"
             }
         ]
@@ -5440,7 +5440,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 892518,
                 "package_name": "netCDF4"
             }
         ]
@@ -5702,7 +5702,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 2268335,
                 "package_name": "JPype1"
             }
         ]
@@ -6260,7 +6260,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 352443,
                 "package_name": "Protego"
             }
         ]
@@ -6481,7 +6481,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 841085,
                 "package_name": "PyDispatcher"
             }
         ]
@@ -6544,7 +6544,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 22645398,
                 "package_name": "Pygments"
             }
         ]
@@ -6562,7 +6562,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 1361813,
                 "package_name": "PyHive"
             }
         ]
@@ -6607,7 +6607,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 1831686,
                 "package_name": "PyMeeus"
             }
         ]
@@ -6634,7 +6634,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 9707919,
                 "package_name": "PyMySQL"
             }
         ]
@@ -6697,7 +6697,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 863261,
                 "package_name": "Pyrogram"
             }
         ]
@@ -6886,7 +6886,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 893021,
                 "package_name": "PyVirtualDisplay"
             }
         ]
@@ -6895,7 +6895,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 5936786,
                 "package_name": "PyWavelets"
             }
         ]
@@ -6904,7 +6904,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 13440186,
                 "package_name": "Cython"
             }
         ]
@@ -6922,7 +6922,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 6970510,
                 "package_name": "QtPy"
             }
         ]
@@ -7193,7 +7193,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 1469583,
                 "package_name": "Rx"
             }
         ]
@@ -7338,7 +7338,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 817626,
                 "package_name": "Scrapy"
             }
         ]
@@ -7356,7 +7356,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 8765563,
                 "package_name": "SecretStorage"
             }
         ]
@@ -7392,7 +7392,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 10139792,
                 "package_name": "Send2Trash"
             }
         ]
@@ -7518,7 +7518,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 4023741,
                 "package_name": "Shapely"
             }
         ]
@@ -7735,7 +7735,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 2001190,
                 "package_name": "PySocks"
             }
         ]
@@ -7744,7 +7744,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 2001190,
                 "package_name": "PySocks"
             }
         ]
@@ -7798,7 +7798,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 3990731,
                 "package_name": "Sphinx"
             }
         ]
@@ -7850,7 +7850,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 23062312,
                 "package_name": "SQLAlchemy"
             }
         ]
@@ -7859,7 +7859,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 1097021,
                 "package_name": "SQLAlchemy-JSONField"
             }
         ]
@@ -7877,7 +7877,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 2040913,
                 "package_name": "SQLAlchemy-Utils"
             }
         ]
@@ -8075,7 +8075,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 2684154,
                 "package_name": "Telethon"
             }
         ]
@@ -8102,7 +8102,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 846198,
                 "package_name": "tensorboardX"
             }
         ]
@@ -8551,7 +8551,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 1675472,
                 "package_name": "Twisted"
             }
         ]
@@ -8659,7 +8659,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 4880518,
                 "package_name": "Unidecode"
             }
         ]
@@ -8722,7 +8722,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 1253882,
                 "package_name": "uWSGI"
             }
         ]
@@ -8884,7 +8884,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 1460796,
                 "package_name": "WebOb"
             }
         ]
@@ -8920,7 +8920,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 25198369,
                 "package_name": "Werkzeug"
             }
         ]
@@ -8974,7 +8974,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 2156821,
                 "package_name": "WTForms"
             }
         ]
@@ -9019,7 +9019,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 5888335,
                 "package_name": "XlsxWriter"
             }
         ]
@@ -9055,7 +9055,7 @@
         "package_names": [
             {
                 "date_added": "2021-06-16",
-                "downloads": null,
+                "downloads": 84563242,
                 "package_name": "PyYAML"
             }
         ]
